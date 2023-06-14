@@ -47,6 +47,9 @@ button.btn{
     padding: 40px 0px;
     background:#F4F8FF;
 }
+.row.roundss {
+    margin: 0px !important;
+}
 
 .course {
     gap: 20px;
